@@ -16,4 +16,4 @@ for champion, data in data["data"].items():
     }
 
 with open(f"{current_path}/ordered_champions.json", "w") as final_file:
-    json.dump(final, final_file)
+    json.dump(final, final_file, indent=4)
