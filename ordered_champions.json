@@ -845,6 +845,12 @@
         "title": "the Unforgiven",
         "image": "Yasuo.png"
     },
+    "777": {
+        "name": "Yone",
+        "nameID": "Yone",
+        "title": "the Unforgotten",
+        "image": "Yone.png"
+    },
     "83": {
         "name": "Yorick",
         "nameID": "Yorick",
