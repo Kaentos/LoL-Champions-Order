@@ -1,1 +1,2 @@
-# LoL_ChampionOrderJson
+# LoL Champions Order
+LoL Champions Order is a script that converts the Champion data fetched from Riot Games' Data Dragon service into a schema that has the champion ID stored as a key instead of a value in the Champion object.
